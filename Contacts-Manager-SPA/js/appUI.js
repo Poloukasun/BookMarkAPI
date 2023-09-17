@@ -38,7 +38,7 @@ function renderAbout() {
                     d'interface utilisateur monopage réactive.
                 </p>
                 <p>
-                    Auteur: Nicolas Chourot
+                    Auteur: Jean-Sébastien Labrie
                 </p>
                 <p>
                     Collège Lionel-Groulx, automne 2023
